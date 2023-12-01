@@ -96,16 +96,26 @@ Desarrollar un refrigerador portátil para personas que no tienen disponibilidad
 ## Diagramas
 
 - Diagrama de caja negra
-- Tabla de verdad
-- Diagrama de estados
+
+![image](https://github.com/angelesmes/Lab.Digital1/assets/143465169/4c403ed4-c8fd-4574-b67f-4602c1a3d1cb)
+
+-Diagrama en Digital
+
+![image](https://github.com/angelesmes/Lab.Digital1/assets/143465169/86ba3672-d12e-4485-a135-ba19b1fb7eeb)
+
 
 ## Simulación 
 
+![image](https://github.com/angelesmes/Lab.Digital1/assets/143465169/1f2b8ee3-f52e-4e1a-aaa1-dd92f8abc356)
+
 ## Fotografías del Montaje
+
+![Montaje](https://github.com/angelesmes/Lab.Digital1/assets/143465169/b3501350-f358-485e-8d37-e63e8e18e6c1)
 
 ## Vídeo de Funcionamiento
 
 https://drive.google.com/file/d/1hZyHo432eGiXOAI4GWSE7KCx-eaXyO22/view?usp=sharing
+
 
 ## Bibliografía
 1. "DANE - Encuesta nacional del uso del tiempo (ENUT)". DANE - Inicio. Accedido el 30 de noviembre de 2023. [En línea]. Disponible: https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/encuesta-nacional-del-uso-del-tiempo-enut
