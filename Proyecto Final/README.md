@@ -190,7 +190,7 @@ module NEVERA (
   assign H = A;
   assign V = V_temp;
 endmodule
-
+);
 ## Fotografías del Montaje
 
 ![Montaje](https://github.com/angelesmes/Lab.Digital1/assets/143465169/b3501350-f358-485e-8d37-e63e8e18e6c1)
