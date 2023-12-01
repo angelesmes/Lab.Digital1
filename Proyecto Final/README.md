@@ -191,7 +191,7 @@ module NEVERA (
   assign V = V_temp;
 endmodule
 );
-
+```
 
 ## Fotografías del Montaje
 
