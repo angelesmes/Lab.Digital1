@@ -115,8 +115,8 @@ Desarrollar un refrigerador portátil para personas que no tienen disponibilidad
 ## Vídeo de Funcionamiento
 
 https://drive.google.com/file/d/1hZyHo432eGiXOAI4GWSE7KCx-eaXyO22/view?usp=sharing
-https://drive.google.com/file/d/10YvCIvFgzs86eMYjiPFN9y1V4U9pTFvF/view?usp=sharing
 
+https://drive.google.com/file/d/10YvCIvFgzs86eMYjiPFN9y1V4U9pTFvF/view?usp=sharing
 
 ## Bibliografía
 1. "DANE - Encuesta nacional del uso del tiempo (ENUT)". DANE - Inicio. Accedido el 30 de noviembre de 2023. [En línea]. Disponible: https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/encuesta-nacional-del-uso-del-tiempo-enut
